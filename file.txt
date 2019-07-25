@@ -1,3 +1,9 @@
 @my first projext@
+<<<<<<< HEAD
 Paris is the capital of France
 Moscow is the capital of RF
+=======
+London is the capital of GB
+Moskow is the capital on Russia
+Paris is the capital of France
+>>>>>>> parent of 6994e86... Revert "Another capital was added"
